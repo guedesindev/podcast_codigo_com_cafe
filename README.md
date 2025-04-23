@@ -24,34 +24,6 @@ Mas aqui tem um diferencial: TODO o processo criativo está sendo realizado com 
 
 ---
 
-## 🔥 Primeiros Passos: O Episódio Piloto
-
-### 🎧 Episódio 01 — *"O que é Ciência de Dados, afinal?"*
-
-#### ✅ Roteiro
-O roteiro foi criado com o auxílio do ChatGPT, com foco em:
-- Explicar de forma acessível o que é Ciência de Dados.
-- Trazer exemplos reais de profissionais que migraram de outras áreas.
-- Encerrar com um convite leve e motivador.
-
-#### 🧠 Curiosidade
-Durante a escrita do roteiro, testamos diferentes “tons de voz” (mais técnico, mais descontraído, mais filosófico). Optamos por um tom **conversado e acolhedor**, como um bate-papo no café da tarde.
-
-#### 🎙️ Narração
-Convertido com ElevenLabs utilizando uma voz masculina calma e inspiradora. Em breve, planejamos oferecer diferentes vozes para os episódios!
-
-#### 🎨 Identidade Visual
-- A logo do podcast e a imagem do "podcaster virtual" foram criadas com prompts no MidJourney.
-- A capa do episódio também foi gerada com IA, com base nos temas abordados.
-
-#### ✂️ Edição
-Finalizada no CapCut, com inclusão de trilha sonora livre de royalties, vinheta de abertura e encerramento suave.
-
-#### 🧾 Organização
-Todo o projeto está documentado e organizado em um template de Notion adaptado da comunidade DIO, ideal para projetos criativos com IA.
-
----
-
 ## 🛠️ Como Contribuir
 
 Quer participar? Temos planos de abrir espaço para sugestões de temas, histórias de transição de carreira e colaborações com convidados reais (de verdade, não só IA! 😄).
