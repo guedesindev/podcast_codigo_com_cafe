@@ -20,6 +20,7 @@ Mas aqui tem um diferencial: TODO o processo criativo está sendo realizado com 
 | 🎨 Criação de logo e artes  | [MidJourney](https://www.midjourney.com/)                                 |
 | 🗣️ Narração                 | [ElevenLabs](https://www.elevenlabs.io/)                                  |
 | 🎬 Edição e publicação      | [CapCut](https://www.capcut.com/)                                         |
+| 📹 Editor de áudio          | [devGuedes](guedesindev.github.io)                                        |
 | 📋 Organização e roteiro    | Template Notion do [@FelipeAguiarDIO](https://www.linkedin.com/in/felipeaguiardio/) |
 
 ---
