@@ -91,7 +91,7 @@ Perceba que nesta geração de imagem fiz o prompt em português mesmo e olha o 
 
 ---
 
-Esta foi a jornada para obter as imagens do podcast Café com Código. 
+Esta foi a jornada para obter as imagens do podcast Código com Café. 
 
-Fala sério, com essas artes você não está ansioso para ouvir o primeiro episódio do Café com código? 
+Fala sério, com essas artes você não está ansioso para ouvir o primeiro episódio do Código com Café? 
 Aguarde os próximos passos. 😜
