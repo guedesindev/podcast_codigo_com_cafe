@@ -17,7 +17,7 @@ Mas aqui tem um diferencial: TODO o processo criativo está sendo realizado com 
 | Função                      | Ferramenta                                                                 |
 |----------------------------|---------------------------------------------------------------------------|
 | ✍️ Roteirista               | [ChatGPT](https://openai.com/chatgpt)                                     |
-| 🎨 Criação de logo e artes  | [MidJourney](https://www.midjourney.com/)                                 |
+| 🎨 Criação de logo e artes  | [ChatGPT](https://openai.com/chatgpt)                                  |
 | 🗣️ Narração                 | [ElevenLabs](https://www.elevenlabs.io/)                                  |
 | 🎬 Edição e publicação      | [CapCut](https://www.capcut.com/)                                         |
 | 📹 Editor de áudio          | [devGuedes](guedesindev.github.io)                                        |
