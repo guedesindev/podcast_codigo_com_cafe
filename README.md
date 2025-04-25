@@ -3,6 +3,9 @@
 🎙️ Um podcast sobre Ciência de Dados feito por quem está começando, para quem quer começar — com a ajuda de Inteligências Artificiais e uma boa dose de café!
 
 ---
+  <img src="assets/cafe_com_codigo.png" width=45%/>
+
+---
 
 ## 💡 Proposta
 
